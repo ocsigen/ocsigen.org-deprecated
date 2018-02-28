@@ -151,7 +151,7 @@
 >>
 >>
 
-<<link wiki="occduce"|
+<<link href="/occduce"|
 <<div class="main-page-project"|
   ===Occduce
 
