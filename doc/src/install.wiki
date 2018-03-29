@@ -1,0 +1,17 @@
+<<div class="project-page" |
+<<div class="rightcol" |
+
+<<header |=Install>>
+
+All the projects are available in Opam.
+Type:
+{{{
+opam install ocsigen-start
+}}}
+to install Ocsigen Start and all its dependencies.
+
+Find the source code
+[[https://github.com/ocsigen|on Github]].
+
+>>
+>>
