@@ -32,6 +32,7 @@
 New design for ocsigen.org!
 Send us your feedback and bug reports
 [[https://github.com/ocsigen/ocsigen.org/issues|on Github]].
+Old version of the Web site is [[http://ocsigen-1.inria.fr|still accessible]].
 >>
 
 <<div class="main-page-news-2"|
