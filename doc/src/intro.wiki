@@ -1,7 +1,5 @@
 <<div class="main-page-section main-page-section-header"|
 
-==Site under construction. Please use http://ocsigen.org for now.
-
 = Multi-tier programming for Web and mobile apps
 == Android, iOS, Server & client in one piece of code
 == Powerful type-checking with OCaml/Reason
