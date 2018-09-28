@@ -170,7 +170,7 @@ function(d){var b=d,c=1,a=1;for(;;){if(0===b)return a;var b=b-1|0,e=a+c|0,c=a,a=
   Static type-checking for HTML and SVG.
 >>
 >>
-<<link href="/ocsigen-toolkit/1.1.0/manual/intro"|
+<<link href="ocsigen-toolkit/1.1.0/manual/intro"|
 <<div class="main-page-project"|
   ===Ocsigen Toolkit
 
